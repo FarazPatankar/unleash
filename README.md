@@ -18,7 +18,7 @@ Unleash comes with [official client SDKs](https://docs.getunleash.io/sdks) for a
 
 **Open-Source**
 
-- Boolean feature toggles (on/off)
+- Boolean feature toggles (on/off)!
 - Canary release (Gradual rollout)
 - Targeted release
 - Experimentation (A/B testing)
